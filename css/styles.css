@@ -1,0 +1,15 @@
+body {
+  /* https://colorhunt.co/palette/156692 #b18ea6 #f2a6a6 #b2e4d5 #e7f3ee */ 
+  background-color: #e7f3ee;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 10px;
+  border-color: #b18ea6;
+  width: 80px;
+}
+
+h1, h3  {
+  color: #f2a6a6;
+}
